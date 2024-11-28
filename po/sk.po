@@ -1,9 +1,9 @@
-# 
+#
 # Translators:
 # Matej Mrenica, 2022
 # Peter Cyprich, 2024
 # Michal Fusatý, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Michal Fusatý, 2024\n"
@@ -456,7 +456,7 @@ msgid "The following packages are not compatible with your architecture:"
 msgstr "Nasledovné balíčky nie sú kompatibilné s vašou architektúrou: "
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
+msgid "There are %[1]d providers available for %[2]s:"
 msgstr ""
 "Existuje/existujú %d poskytovateľ/poskytovatelia/poskytovateľov pre %s: "
 

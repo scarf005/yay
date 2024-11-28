@@ -723,7 +723,7 @@ func (g *Grapher) provideMenu(dep string, options []aur.Pkg) *aur.Pkg {
 		return &options[0]
 	}
 
-	str := text.Bold(gotext.Get("There are %d providers available for %s:", size, dep))
+	str := text.Bold(gotext.Get("There are %[1]d providers available for %[2]s:", size, dep))
 	str += "\n"
 
 	size = 1

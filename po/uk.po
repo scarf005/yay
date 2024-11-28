@@ -1,11 +1,11 @@
-# 
+#
 # Translators:
 # Volodymyr Markiv <vov4uk21@gmail.com>, 2021
 # Igor Lukyanov, 2023
 # Andrii Lytvyn, 2023
 # null null, 2023
 # Andrii Yermak, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Andrii Yermak, 2024\n"
@@ -455,8 +455,8 @@ msgid "The following packages are not compatible with your architecture:"
 msgstr "Наступні пакунки не сумісні з вашою архітектурою:"
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
-msgstr "Існує %d постачальників для %s:"
+msgid "There are %[1]d providers available for %[2]s:"
+msgstr "Існує %[1]d постачальників для %[2]s:"
 
 #: pkg/settings/exe/cmd_builder.go:258
 msgid "There may be another Pacman instance running. Waiting..."

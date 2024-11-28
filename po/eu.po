@@ -449,8 +449,8 @@ msgstr "Ondorengo paketeak ez dira zure arkitekturarekin bateragarriak:"
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
 #, fuzzy
-msgid "There are %d providers available for %s:"
-msgstr "%d hornitzaile eskuragarri %s paketearentzat:\n"
+msgid "There are %[1]d providers available for %[2]s:"
+msgstr "%[1]d hornitzaile eskuragarri %[2]s paketearentzat:\n"
 
 #: pkg/settings/exe/cmd_builder.go:258
 msgid "There may be another Pacman instance running. Waiting..."

@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # Julian Neupert <julian.neupert@gmail.com>, 2021
 # Chris Boesch, 2021
@@ -14,7 +14,7 @@
 # Severin Hamader <severin.hamader@yahoo.de>, 2023
 # Manuel Schneider, 2023
 # Marethyu _, 2023
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Marethyu _, 2023\n"
@@ -451,8 +451,8 @@ msgid "The following packages are not compatible with your architecture:"
 msgstr "Die folgenden Pakete sind mit Ihrer Architektur inkompatibel:"
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
-msgstr "Es sind %d Anbieter für %s verfügbar:"
+msgid "There are %[1]d providers available for %[2]s:"
+msgstr "Es sind %[1]d Anbieter für %[2]s verfügbar:"
 
 #: pkg/settings/exe/cmd_builder.go:258
 msgid "There may be another Pacman instance running. Waiting..."

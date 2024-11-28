@@ -444,7 +444,7 @@ msgstr ""
 
 #: pkg/db/ialpm/alpm.go:179
 #: pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
+msgid "There are %[1]d providers available for %[2]s:"
 msgstr ""
 
 #: pkg/settings/exe/cmd_builder.go:258

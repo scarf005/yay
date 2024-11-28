@@ -1,7 +1,7 @@
-# 
+#
 # Translators:
 # Davidmp <medipas@gmail.com>, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Davidmp <medipas@gmail.com>, 2024\n"
@@ -434,8 +434,8 @@ msgid "The following packages are not compatible with your architecture:"
 msgstr "Els paquets següents no són compatibles amb la vostra arquitectura:"
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
-msgstr "Hi ha %d proveïdors disponibles per a %s:"
+msgid "There are %[1]d providers available for %[2]s:"
+msgstr "Hi ha %[1]d proveïdors disponibles per a %[2]s:"
 
 #: pkg/settings/exe/cmd_builder.go:258
 msgid "There may be another Pacman instance running. Waiting..."

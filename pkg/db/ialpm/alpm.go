@@ -176,7 +176,7 @@ func (ae *AlpmExecutor) questionCallback() func(question alpm.QuestionAny) {
 			return nil
 		})
 
-		str := text.Bold(gotext.Get("There are %d providers available for %s:", size, qp.Dep()))
+		str := text.Bold(gotext.Get("There are %[1]d providers available for %[2]s:", size, qp.Dep()))
 
 		size = 1
 

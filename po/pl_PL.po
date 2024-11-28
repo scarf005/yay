@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # J G, 2021
 # Paweł Bernaciak, 2022
@@ -8,7 +8,7 @@
 # Bartłomiej Konecki, 2023
 # Mariusz Bubak, 2023
 # Tadeusz Magura-Witkowski, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Tadeusz Magura-Witkowski, 2024\n"
@@ -461,8 +461,8 @@ msgid "The following packages are not compatible with your architecture:"
 msgstr "Te paczki nie są kompatybilne z architekturą Twojego systemu:"
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
-msgstr "Jest %d możliwych źródeł dla %s:"
+msgid "There are %[1]d providers available for %[2]s:"
+msgstr "Jest %[1]d możliwych źródeł dla %[2]s:"
 
 #: pkg/settings/exe/cmd_builder.go:258
 msgid "There may be another Pacman instance running. Waiting..."

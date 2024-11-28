@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # Benjamin Chenebault, 2023
 # anthony tonitch <d.tonitch@gmail.com>, 2024
@@ -8,7 +8,7 @@
 # Sylvain Bx, 2024
 # Mathias Brugger, 2024
 # Pierre Grasser, 2024
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Pierre Grasser, 2024\n"
@@ -446,8 +446,8 @@ msgid "The following packages are not compatible with your architecture:"
 msgstr "Les paquets suivants sont incompatibles avec votre architecture :"
 
 #: pkg/db/ialpm/alpm.go:179 pkg/dep/dep_graph.go:726
-msgid "There are %d providers available for %s:"
-msgstr "Il y a %d paquets pouvant fournir %s :"
+msgid "There are %[1]d providers available for %[2]s:"
+msgstr "Il y a %[1]d paquets pouvant fournir %[2]s :"
 
 #: pkg/settings/exe/cmd_builder.go:258
 msgid "There may be another Pacman instance running. Waiting..."
